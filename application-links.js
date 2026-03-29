@@ -32,9 +32,9 @@ window.LMPF_APPLICATION_LINKS = {
 };
 
 window.LMPF_DIPLOMAT_LINKS = {
-    "NLA": "https://example.com/diplomats/nla",
-    "NES": "https://example.com/diplomats/nes",
-    "ANRO": "https://example.com/diplomats/anro",
-    "NMP": "https://example.com/diplomats/nmp",
-    "8NEC/FG": "https://example.com/diplomats/8nec-fg"
+    "NLA": "https://docs.google.com/forms/d/e/1FAIpQLSeLYAf-nVfmCUW2vuh-0SXJX-gpJlzQggUwJaNNpHRlFD0yMg/viewform?usp=publish-editor",
+    "NES": "https://docs.google.com/forms/d/e/1FAIpQLSeLYAf-nVfmCUW2vuh-0SXJX-gpJlzQggUwJaNNpHRlFD0yMg/viewform?usp=publish-editor",
+    "ANRO": "https://docs.google.com/forms/d/e/1FAIpQLSeLYAf-nVfmCUW2vuh-0SXJX-gpJlzQggUwJaNNpHRlFD0yMg/viewform?usp=publish-editor",
+    "NMP": "https://docs.google.com/forms/d/e/1FAIpQLSeLYAf-nVfmCUW2vuh-0SXJX-gpJlzQggUwJaNNpHRlFD0yMg/viewform?usp=publish-editor",
+    "8NEC/FG": "https://docs.google.com/forms/d/e/1FAIpQLSeLYAf-nVfmCUW2vuh-0SXJX-gpJlzQggUwJaNNpHRlFD0yMg/viewform?usp=publish-editor"
 };
